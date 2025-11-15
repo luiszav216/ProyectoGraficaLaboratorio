@@ -1,0 +1,88 @@
+﻿  KeyFrames.cpp
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\Mesh.h(80,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "KeyFrames.cpp")
+  
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\meshAnim.h(111,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "KeyFrames.cpp")
+  
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\modelAnim.h(114,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "KeyFrames.cpp")
+  
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\modelAnim.h(514,31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "KeyFrames.cpp")
+  
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(433,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(465,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(465,32): warning C4244:         with
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(465,32): warning C4244:         [
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(465,32): warning C4244:             T=float
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(465,32): warning C4244:         ]
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(466,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(466,32): warning C4244:         with
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(466,32): warning C4244:         [
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(466,32): warning C4244:             T=float
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(466,32): warning C4244:         ]
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(467,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(467,32): warning C4244:         with
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(467,32): warning C4244:         [
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(467,32): warning C4244:             T=float
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(467,32): warning C4244:         ]
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1083,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1084,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1088,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1089,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1091,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\ConfigInicial\KeyFrames.cpp(1092,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+KeyFrames.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewEnableVertexAttribArray sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewBindVertexArray sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewVertexAttribPointer sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGetShaderiv sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewCompileShader sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo aiGetMaterialTextureCount sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewCreateShader sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewBindBuffer sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewCreateProgram sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewUniform1i sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGetShaderInfoLog sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwGetFramebufferSize sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGetProgramiv sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo SOIL_free_image_data sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwInit sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo SOIL_load_image sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewDeleteVertexArrays sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewUniform1f sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGetUniformLocation sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewBufferData sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewAttachShader sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewActiveTexture sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewShaderSource sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGenVertexArrays sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewUniformMatrix4fv sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo aiGetMaterialTexture sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp_glewExperimental sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewVertexAttribIPointer sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGetProgramInfoLog sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGenBuffers sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewGenerateMipmap sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewUniform3f sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewDeleteShader sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewLinkProgram sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp_glewInit sin resolver
+KeyFrames.obj : error LNK2001: símbolo externo __imp___glewDeleteBuffers sin resolver
+C:\Users\luis_\Desktop\Proyecto Final - copia\Proyecto Final\ConfigInicial\x64\Release\ConfigInicial.exe : fatal error LNK1120: 52 externos sin resolver

@@ -1,0 +1,152 @@
+# Blender 4.4.3 MTL File: 'casa.blend'
+# www.blender.org
+
+newmtl Cocina
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd imagenes/Pared Cocina.png
+
+newmtl MarcoCanasta
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/marco canasta.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.166102 0.000000 0.000363
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl ParedExterior
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/paredExterior.png
+
+newmtl PisoCocina
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/PisoCocina.png
+
+newmtl Vnetana
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/pared sala.png
+
+newmtl Vnetana.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/paredExterior.png
+
+newmtl alfombra_sala
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/AlfombraSala.png
+
+newmtl columnas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/Pilares.png
+
+newmtl escaleras
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/Escaleras.png
+
+newmtl pared1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/pared sala.png
+
+newmtl patasPatio
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/pataPatio.png
+
+newmtl piso1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Downloads/ChatGPT Image 18 oct 2025, 21_02_32.png
+
+newmtl techitos
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/techito.png
+
+newmtl tejas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/luis_/Desktop/Proyecto Grafica/Proyecto Final/imagenes/ChatGPT Image 19 oct 2025, 21_13_55.png
